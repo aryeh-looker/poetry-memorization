@@ -1,36 +1,35 @@
 # poetry
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+Helps with memorizing things like poetry
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar poetry-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
+lein run <filename>
 
 ## Examples
 
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+	aryeh [2017-07-30 16:00:18]:~/Development/poetry$ lein run ~/Development/burnt-norton.txt
+	Opening: /Users/user/Development/burnt-norton.txt
+	hhh
+	BURNT NORTON
+	BURNT NORTON
+	
+	(No. 1 of 'Four Quartets')
+	(No. 1 of 'Four Quartets')
+	
+	
+	Time present and time past
+	Time present and time past 
+	Are both contained in time present
+	Are both perhaps present in time future,
+	Are both perhaps present in time future,
+	
+	And time future contained in time past.
+	And time future contained in time past.
+	
+	If all time is eternally present
+	If all time is eternally present
+	
+	All time is unredeemable.
+	All time is unredeemable.
+	
